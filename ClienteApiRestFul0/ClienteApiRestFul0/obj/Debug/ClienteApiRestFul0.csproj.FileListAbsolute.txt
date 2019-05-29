@@ -1,0 +1,15 @@
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\bin\Debug\ClienteApiRestFul0.exe.config
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\bin\Debug\ClienteApiRestFul0.exe
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\bin\Debug\ClienteApiRestFul0.pdb
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.csprojAssemblyReference.cache
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.Form1.resources
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.Properties.Resources.resources
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.csproj.GenerateResource.cache
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.csproj.CoreCompileInputs.cache
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.csproj.CopyComplete
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.exe
+C:\Users\NeXuZZ\source\repos\ClienteApiRestFul0\ClienteApiRestFul0\obj\Debug\ClienteApiRestFul0.pdb
